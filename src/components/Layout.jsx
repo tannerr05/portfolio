@@ -18,7 +18,7 @@ export default function Layout() {
                 <ThemeToggle />
             </header>
             <main id="main-content" tabIndex={-1}><Outlet /></main>
-            <footer>CSCI4350 Portfolio Assignment</footer>
+            <footer>CSCI4360 Portfolio Assignment</footer>
         </>
     );
 }
