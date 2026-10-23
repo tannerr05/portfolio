@@ -43,3 +43,8 @@ img { max-width: 100%; height: auto; }
 .skip-link { position: absolute; left: -10000px; }
 
 .skip-link:focus { left: 1rem; top: .5rem; }
+
+.selfie{
+  width: 300px;
+  height: auto;
+}
